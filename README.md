@@ -1,6 +1,6 @@
 ![logo](https://github.com/laxmi079/laxmi079/blob/main/git_bg.png)
 <h1 align="center">Hi 👋, I'm Laxmi Kumari</h1>
-<h3 align="center">"I am a passionate Backend and Web Developer with a strong foundation in Data Structures and Algorithms ."</h3>
+<h3 align="center">"I am a passionate Web Developer with a strong foundation in Data Structures and Algorithms ."</h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi079&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi079" /> </p>
